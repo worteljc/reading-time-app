@@ -10,6 +10,8 @@ public class Book {
     private String author;
 
     private String cover;
+    
+    private String hans;
 
     public Book() {
 
